@@ -15,4 +15,4 @@ const cities = {
 // export 
 module.exports = {destination};
 
-// module.exports.myCities = cities;
+module.exports.myCities = cities;
